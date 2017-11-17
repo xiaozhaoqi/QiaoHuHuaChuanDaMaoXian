@@ -1,2 +1,3 @@
 # QiaoHuHuaChuanDaMaoXian
 这是我第一次编写的完整游戏程序，用来交付本科一年级的课程设计作业。
+exe文件直接运行即可体验
